@@ -2,5 +2,6 @@
 
   > ✔️
 
-![cvportugues](https://user-images.githubusercontent.com/79876042/154996332-61d9c3d5-9daa-427e-b7ec-6986edc18812.png)
+![image](https://user-images.githubusercontent.com/79876042/181008328-e98e0647-4762-4a3d-a68d-f22929c7c423.png)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![ingles](https://user-images.githubusercontent.com/79876042/154276351-0dc37dcd-3d3f-44c8-8447-6b0206ac6e48.png)
+
