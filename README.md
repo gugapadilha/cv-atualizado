@@ -2,7 +2,7 @@
 
 
 ![cv-portugues](https://user-images.githubusercontent.com/79876042/194566301-492f0ad6-8589-4f77-912c-37d849496d5f.png)
-
+![cv-english](https://user-images.githubusercontent.com/79876042/196180768-9f70ebba-ba4c-44f1-9d91-3ef2b2ae20c6.png)
 ![dasdasdas](https://user-images.githubusercontent.com/79876042/196180537-23b9b095-1ab2-4676-8243-0db6e3fd16dd.png)
 
 ![CV (guga) english](https://user-images.githubusercontent.com/79876042/196180077-20028d8a-4418-4639-adf1-d4d3022e933a.png)
