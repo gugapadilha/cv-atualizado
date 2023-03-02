@@ -1,5 +1,3 @@
-<h1> Currículo (Português/Inglês) <h1> 
+<h1> Resume English CV <h1> 
 
-
-![cv-portugues](https://user-images.githubusercontent.com/79876042/194566301-492f0ad6-8589-4f77-912c-37d849496d5f.png)
-![cv-english](https://user-images.githubusercontent.com/79876042/196180768-9f70ebba-ba4c-44f1-9d91-3ef2b2ae20c6.png)
+![english-cv](https://user-images.githubusercontent.com/79876042/216087346-3d1f701b-d2e9-4f00-8e20-e560dd7535e2.png)
