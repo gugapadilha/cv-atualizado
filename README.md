@@ -1,3 +1,3 @@
 <h1> Resume English CV <h1> 
-
-![english-cv](https://user-images.githubusercontent.com/79876042/222510442-e1c5c1b2-f810-4485-afc6-278fe15d725c.png)
+  
+![cv-english-gustavo-padilha](https://github.com/gugapadilha/cv-atualizado/assets/79876042/4206f3d9-3b55-4c6a-a9ab-301806ee8e7e)
