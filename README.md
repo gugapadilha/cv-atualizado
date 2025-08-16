@@ -1,3 +1,3 @@
 <h1> Resume English CV <h1> 
   
-![cv-gustavo-padilha-en-jpg](https://github.com/user-attachments/assets/f7b8a44c-91cc-43b9-b48a-e0634d8f80b5)
+<img width="392" height="821" alt="image" src="https://github.com/user-attachments/assets/53b5e318-b307-49fb-9623-6853d867a522" />
